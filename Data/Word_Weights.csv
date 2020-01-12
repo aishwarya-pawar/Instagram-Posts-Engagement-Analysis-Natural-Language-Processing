@@ -1,0 +1,11 @@
+,Topic,Word Weights
+0,0,"0.134*""fish"" + 0.104*""organism"" + 0.099*""human"" + 0.093*""underwater"" + 0.092*""marine"" + 0.087*""biology"" + 0.078*""art"" + 0.053*""photography"" + 0.039*""yellow"" + 0.038*""water"""
+1,1,"0.155*""photography"" + 0.110*""black"" + 0.101*""white"" + 0.077*""monochrome"" + 0.076*""hair"" + 0.049*""photograph"" + 0.049*""beauty"" + 0.049*""skin"" + 0.045*""head"" + 0.045*""face"""
+2,2,"0.180*""fun"" + 0.119*""recreation"" + 0.113*""horse"" + 0.082*""vacation"" + 0.072*""vehicle"" + 0.069*""animal"" + 0.066*""photography"" + 0.048*""child"" + 0.041*""adaptation"" + 0.037*""sky"""
+3,3,"0.151*""wildlife"" + 0.114*""terrestrial_animal"" + 0.114*""vertebrate"" + 0.108*""mammal"" + 0.097*""dog"" + 0.081*""carnivore"" + 0.072*""snout"" + 0.068*""canidae"" + 0.043*""felidae"" + 0.041*""adaptation"""
+4,4,"0.173*""plant"" + 0.158*""tree"" + 0.079*""nature"" + 0.075*""rock"" + 0.064*""forest"" + 0.051*""woody"" + 0.051*""natural_environment"" + 0.043*""branch"" + 0.043*""reserve"" + 0.034*""landscape"""
+5,5,"0.099*""sky"" + 0.088*""grass"" + 0.085*""night"" + 0.070*""grassland"" + 0.060*""area"" + 0.059*""architecture"" + 0.044*""field"" + 0.044*""landscape"" + 0.043*""photography"" + 0.040*""plant"""
+6,6,"0.145*""sky"" + 0.106*""mountain"" + 0.079*""cloud"" + 0.065*""atmospheric_phenomenon"" + 0.060*""blue"" + 0.059*""nature"" + 0.052*""atmosphere"" + 0.050*""natural_landscape"" + 0.049*""mountainous_landforms"" + 0.045*""geological_phenomenon"""
+7,7,"0.298*""water"" + 0.202*""sea"" + 0.103*""sky"" + 0.099*""ocean"" + 0.068*""green"" + 0.054*""reflection"" + 0.043*""marine"" + 0.039*""mammal"" + 0.024*""vehicle"" + 0.023*""cloud"""
+8,8,"0.104*""event"" + 0.086*""photography"" + 0.072*""room"" + 0.069*""bird"" + 0.059*""temple"" + 0.056*""adaptation"" + 0.054*""people"" + 0.053*""tourism"" + 0.052*""design"" + 0.049*""crowd"""
+9,9,"0.169*""ice"" + 0.109*""natural_environment"" + 0.104*""arctic"" + 0.098*""reptile"" + 0.072*""cap"" + 0.071*""sand"" + 0.066*""landform"" + 0.057*""landscape"" + 0.051*""sky"" + 0.039*""winter"""
